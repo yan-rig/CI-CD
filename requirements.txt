@@ -3,4 +3,4 @@ fastapi
 uvicorn
 python-multipart
 websockets
-pytest
+httpx
